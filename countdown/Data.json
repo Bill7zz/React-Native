@@ -1,0 +1,64 @@
+{
+    "speedways": [
+        {
+            "id": "1",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Atlanta_Motor_Speedway_aerial_2006.jpg",
+            "name": "Atlanta Motor Speedway",
+            "description": "1.5-mile oval racetrack in Hampton, Georgia, United States, 20 miles (32 km) south of Atlanta."
+        },
+        {
+            "id": "2",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/ACSinfield.jpg",
+            "name": "Auto Club Speedway",
+            "description": "Two-mile (3 km), low-banked, D-shaped oval superspeedway in Fontana."
+        },
+        {
+            "id": "3",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bristol_Motor_Speedway.jpeg",
+            "name": "Bristol Motor Speedway",
+            "description": "Bristol International Raceway and Bristol Raceway, is a NASCAR short track venue located in Bristol, Tennessee."
+        },
+        {
+            "id": "4",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Moss_Corner_Turn_5a_and_5b_at_Canadian_Tire_Motorsport_Park.jpg",
+            "name": "Canadian Tire Motorsport Park",
+            "description": "Multi-track motorsport venue located north of Bowmanville, Ontario, Canada."
+        },
+        {
+            "id": "5",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Lowesmotorspeedway.jpg",
+            "name": "Charlotte Motor Speedway",
+            "description": "Motorsports complex located in Concord, North Carolina 13 mi (21 km) from Charlotte."
+        },
+        {
+            "id": "6",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Chicagoland_Speedway_ow.jpg",
+            "name": "Chicagoland Speedway",
+            "description": "1.5 miles (2.4 km) tri-oval speedway in Joliet, Illinois, southwest of Chicago."
+        },
+        {
+            "id": "7",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Junior_at_Darlington_edit.jpg",
+            "name": "Darlington Raceway",
+            "description": "1.5 miles (2.4 km) tri-oval speedway in Joliet, Illinois, southwest of Chicago."
+        },
+        {
+            "id": "8",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Daytona_International_Speedway_2011.jpg",
+            "name": "Daytona International Speedway",
+            "description": "Race track in Daytona Beach, Florida, United States."
+        },
+        {
+            "id": "9",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/President_Trump%27s_First_100_Days-_13_%2834252546461%29.jpg",
+            "name": "Dover International Speedway",
+            "description": "Race track in Dover, Delaware, United States. Since opening in 1969, it has held at least two NASCAR races each year."
+        },
+        {
+            "id": "10",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/EldoraSpeedwayUSGS.png",
+            "name": "Eldora Speedway",
+            "description": "0.5 mi (804.672 m) (American short tracks are measured in both fractions – 1/2-mile or decimals .500-mile) high-banked clay dirt oval."
+        }
+    ]
+}
